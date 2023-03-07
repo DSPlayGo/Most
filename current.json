@@ -1,12 +1,6 @@
 {
   "currentDay": [
     {
-      "id_tmdb": 640146,
-      "title": "Ant-Man y la Avispa: Quantumana",
-      "image": "/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg",
-      "type": "movie"
-    },
-    {
       "id_tmdb": 100088,
       "title": "The Last of Us",
       "image": "/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
@@ -19,21 +13,45 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 60735,
-      "title": "The Flash",
-      "image": "/2O8tlUzKS3uddGW5D2B9XM6b4e.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 850871,
-      "title": "Sayen",
-      "image": "/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg",
+      "id_tmdb": 640146,
+      "title": "Ant-Man y la Avispa: Quantumana",
+      "image": "/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 4604,
-      "title": "Smallville",
-      "image": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+      "id_tmdb": 80398,
+      "title": "Kally\u0027s Mashup",
+      "image": "/6chlpqlvGEX8aC24zabaJsAC8bi.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 760741,
+      "title": "La bestia",
+      "image": "/usGKyYKENEb2igroUkNIZEOv06i.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 61852,
+      "title": "Henry Danger",
+      "image": "/onddStWYELFaz4BbV8kavU11oCo.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 1081313,
+      "title": "Esta noche duermes conmigo",
+      "image": "/8b1eK5Z8oe2qAqAbxSN33tLnLwq.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 2004,
+      "title": "Malcolm",
+      "image": "/sUjsvpfWQ0OuKWPpbsfFHZhLGiK.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 31911,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "image": "/726CoIcNtWJJuxSyuRLjZkJwGrT.jpg",
       "type": "serie"
     },
     {
@@ -43,39 +61,51 @@
       "type": "serie"
     },
     {
-      "id_tmdb": 1008005,
-      "title": "La nia de la comunin",
-      "image": "/sGSzha9K65abyvzBwXXnSV2sHWV.jpg",
+      "id_tmdb": 850871,
+      "title": "Sayen",
+      "image": "/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 1081313,
-      "title": "Esta noche duermes conmigo",
-      "image": "/8b1eK5Z8oe2qAqAbxSN33tLnLwq.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 315162,
-      "title": "El Gato con Botas: El ltimo deseo",
-      "image": "/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 740441,
-      "title": "Unlocked",
-      "image": "/oGHr8yUOXtVK0mGoZURZqqbwXXj.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1399,
-      "title": "Juego de tronos",
-      "image": "/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
+      "id_tmdb": 95479,
+      "title": "Jujutsu Kaisen",
+      "image": "/ipKRfX37GyXhR3RA3pm4FYDu1Rc.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 785084,
-      "title": "La ballena",
-      "image": "/irhIdN4KDOdmTXpplSAwCGZYDSL.jpg",
+      "id_tmdb": 1052946,
+      "title": "Violet Evergarden: Recuerdos",
+      "image": "/61DL5lwBWVuPbH7Mb7wAcvoYpXm.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 672,
+      "title": "Harry Potter y la cmara secreta",
+      "image": "/3nvGqfZE3yrsqehpF107byUdUSq.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 955991,
+      "title": "The Offering",
+      "image": "/eodXetH5ozVr6iiVVRk6Hostonv.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 219063,
+      "title": "La primera vez",
+      "image": "/8SB4i4grrqii6ND5plhN5fwSPfA.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 545611,
+      "title": "Todo a la vez en todas partes",
+      "image": "/ildVXPXTQFly8VAgIrre5v5rbbQ.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 429300,
+      "title": "A la deriva",
+      "image": "/qD5htgIVr66Rgtdm8ovLFR4Z8Zq.jpg",
       "type": "movie"
     },
     {
@@ -85,100 +115,70 @@
       "type": "serie"
     },
     {
-      "id_tmdb": 218476,
-      "title": " :   ",
-      "image": "/ujF2mzHVQU5KCPChgOL397t2nsT.jpg",
+      "id_tmdb": 65320,
+      "title": "SKAM",
+      "image": "/89oewcrhN9fixEXxTWgL9X2TUGS.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 1402,
-      "title": "The Walking Dead",
-      "image": "/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
+      "id_tmdb": 221501,
+      "title": "Melody, la chica del metro",
+      "image": "/u1z2vfC0FvtWG7ZFoktkDExB6DV.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 852096,
-      "title": "Un fantasma anda suelto por casa",
-      "image": "/ukck5O6t0gyZYOtCUHiBhhtEJcR.jpg",
+      "id_tmdb": 1059673,
+      "title": "Avatar: The Deep Dive - A Special Edition of 20/20",
+      "image": "/rtVeIsmeXnpjNbEKnm9Say58XjV.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 103254,
-      "title": "Yashahime: Princess Half-Demon",
-      "image": "/d54H2QpBjRVqmMBrzeJd8bXapLR.jpg",
+      "id_tmdb": 84383,
+      "title": "Yo soy Bruce Lee",
+      "image": "/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 95324,
+      "title": "El colapso",
+      "image": "/bHqvmn0ZShHpS7GgzpH9Mo4CtAJ.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 16286,
-      "title": "Yo soy Betty, la fea",
-      "image": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
+      "id_tmdb": 940614,
+      "title": "Pesadilla en la Piscina",
+      "image": "/n9HxjYg6EVXnUyofH4u8TXGc9JZ.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 105349,
+      "title": "Cleopatra en el Espacio",
+      "image": "/yN33jxnGvLSGOSLmNE57vCGPO4z.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 39351,
-      "title": "Grimm",
-      "image": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+      "id_tmdb": 1030206,
+      "title": "CNCO: los ltimos cinco das",
+      "image": "/48zb4K9GO5p45Xs1BrZUYz0sSro.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 995133,
+      "title": "El nio, el topo, el zorro y el caballo",
+      "image": "/zCSrpzYQgi8nmzHi7ZgszQ6Z1Ln.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 892565,
+      "title": "Isla python",
+      "image": "/aEtubpJx54scHUr7SjL1ugBXKwJ.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 4604,
+      "title": "Smallville",
+      "image": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
       "type": "serie"
-    },
-    {
-      "id_tmdb": 76600,
-      "title": "Avatar: El sentido del agua",
-      "image": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1077280,
-      "title": "Muere, Hart",
-      "image": "/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 456,
-      "title": "Los Simpson",
-      "image": "/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 221483,
-      "title": "Luden - Knige der Reeperbahn",
-      "image": "/kw5UkrJQIC5X2UPJfzcFBFW2Z66.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 86430,
-      "title": "Your Honor",
-      "image": "/1rWWgTEDFdV330aLgCoaq7I56lk.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 980078,
-      "title": "Winnie-the-Pooh: Blood and Honey",
-      "image": "/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 937278,
-      "title": "El peor vecino del mundo",
-      "image": "/6jE6HqtBqRUKuy98NMoWyZOHguR.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1063422,
-      "title": "Los extraos",
-      "image": "/8r68DugmiasKiduv6V6Piulm8Gn.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 906221,
-      "title": "El ltimo baile de Magic Mike",
-      "image": "/p98DxMJbXjI6ITI9aFh3U0u5oF7.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 772515,
-      "title": "Huesera",
-      "image": "/aVw74MES2R0kdSN8JhbJC8Xpne9.jpg",
-      "type": "movie"
     }
   ],
   "currentWeek": [
@@ -201,6 +201,12 @@
       "type": "movie"
     },
     {
+      "id_tmdb": 4604,
+      "title": "Smallville",
+      "image": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+      "type": "serie"
+    },
+    {
       "id_tmdb": 60735,
       "title": "The Flash",
       "image": "/2O8tlUzKS3uddGW5D2B9XM6b4e.jpg",
@@ -213,22 +219,10 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 4604,
-      "title": "Smallville",
-      "image": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
-      "type": "serie"
-    },
-    {
       "id_tmdb": 221322,
       "title": "Noche de chicas",
       "image": "/6kCubUUB23tKQT0A21BVj1LMRqF.jpg",
       "type": "serie"
-    },
-    {
-      "id_tmdb": 1008005,
-      "title": "La nia de la comunin",
-      "image": "/sGSzha9K65abyvzBwXXnSV2sHWV.jpg",
-      "type": "movie"
     },
     {
       "id_tmdb": 1081313,
@@ -243,16 +237,40 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 740441,
-      "title": "Unlocked",
-      "image": "/oGHr8yUOXtVK0mGoZURZqqbwXXj.jpg",
-      "type": "movie"
+      "id_tmdb": 1402,
+      "title": "The Walking Dead",
+      "image": "/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
+      "type": "serie"
     },
     {
       "id_tmdb": 1399,
       "title": "Juego de tronos",
       "image": "/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
       "type": "serie"
+    },
+    {
+      "id_tmdb": 740441,
+      "title": "Unlocked",
+      "image": "/oGHr8yUOXtVK0mGoZURZqqbwXXj.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 76600,
+      "title": "Avatar: El sentido del agua",
+      "image": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 980078,
+      "title": "Winnie-the-Pooh: Blood and Honey",
+      "image": "/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1008005,
+      "title": "La nia de la comunin",
+      "image": "/sGSzha9K65abyvzBwXXnSV2sHWV.jpg",
+      "type": "movie"
     },
     {
       "id_tmdb": 785084,
@@ -267,15 +285,15 @@
       "type": "serie"
     },
     {
-      "id_tmdb": 218476,
-      "title": " :   ",
-      "image": "/ujF2mzHVQU5KCPChgOL397t2nsT.jpg",
+      "id_tmdb": 39351,
+      "title": "Grimm",
+      "image": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 1402,
-      "title": "The Walking Dead",
-      "image": "/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
+      "id_tmdb": 218476,
+      "title": " :   ",
+      "image": "/ujF2mzHVQU5KCPChgOL397t2nsT.jpg",
       "type": "serie"
     },
     {
@@ -285,28 +303,10 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 103254,
-      "title": "Yashahime: Princess Half-Demon",
-      "image": "/d54H2QpBjRVqmMBrzeJd8bXapLR.jpg",
-      "type": "serie"
-    },
-    {
       "id_tmdb": 16286,
       "title": "Yo soy Betty, la fea",
       "image": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
       "type": "serie"
-    },
-    {
-      "id_tmdb": 39351,
-      "title": "Grimm",
-      "image": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 76600,
-      "title": "Avatar: El sentido del agua",
-      "image": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
-      "type": "movie"
     },
     {
       "id_tmdb": 1077280,
@@ -321,27 +321,21 @@
       "type": "serie"
     },
     {
+      "id_tmdb": 1073337,
+      "title": "10 das de un buen hombre",
+      "image": "/lnPIicmgQ3tAJQdlRBh2oaMTxs8.jpg",
+      "type": "movie"
+    },
+    {
       "id_tmdb": 221483,
       "title": "Luden - Knige der Reeperbahn",
       "image": "/kw5UkrJQIC5X2UPJfzcFBFW2Z66.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 86430,
-      "title": "Your Honor",
-      "image": "/1rWWgTEDFdV330aLgCoaq7I56lk.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 980078,
-      "title": "Winnie-the-Pooh: Blood and Honey",
-      "image": "/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 937278,
-      "title": "El peor vecino del mundo",
-      "image": "/6jE6HqtBqRUKuy98NMoWyZOHguR.jpg",
+      "id_tmdb": 842675,
+      "title": "The Wandering Earth 2",
+      "image": "/pZCamRrMWGotEoZV0y51uVGozXg.jpg",
       "type": "movie"
     },
     {
@@ -351,16 +345,22 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 906221,
-      "title": "El ltimo baile de Magic Mike",
-      "image": "/p98DxMJbXjI6ITI9aFh3U0u5oF7.jpg",
-      "type": "movie"
+      "id_tmdb": 82856,
+      "title": "The Mandalorian",
+      "image": "/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
+      "type": "serie"
     },
     {
-      "id_tmdb": 772515,
-      "title": "Huesera",
-      "image": "/aVw74MES2R0kdSN8JhbJC8Xpne9.jpg",
-      "type": "movie"
+      "id_tmdb": 134865,
+      "title": "Wolf Pack",
+      "image": "/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 86430,
+      "title": "Your Honor",
+      "image": "/1rWWgTEDFdV330aLgCoaq7I56lk.jpg",
+      "type": "serie"
     }
   ],
   "currentMonth": [
@@ -371,15 +371,15 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 60735,
-      "title": "The Flash",
-      "image": "/2O8tlUzKS3uddGW5D2B9XM6b4e.jpg",
-      "type": "serie"
-    },
-    {
       "id_tmdb": 100088,
       "title": "The Last of Us",
       "image": "/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 60735,
+      "title": "The Flash",
+      "image": "/2O8tlUzKS3uddGW5D2B9XM6b4e.jpg",
       "type": "serie"
     },
     {
@@ -389,16 +389,22 @@
       "type": "serie"
     },
     {
+      "id_tmdb": 677179,
+      "title": "Creed III",
+      "image": "/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 4604,
+      "title": "Smallville",
+      "image": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+      "type": "serie"
+    },
+    {
       "id_tmdb": 39351,
       "title": "Grimm",
       "image": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
       "type": "serie"
-    },
-    {
-      "id_tmdb": 852096,
-      "title": "Un fantasma anda suelto por casa",
-      "image": "/ukck5O6t0gyZYOtCUHiBhhtEJcR.jpg",
-      "type": "movie"
     },
     {
       "id_tmdb": 740441,
@@ -413,15 +419,9 @@
       "type": "serie"
     },
     {
-      "id_tmdb": 1008005,
-      "title": "La nia de la comunin",
-      "image": "/sGSzha9K65abyvzBwXXnSV2sHWV.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1077280,
-      "title": "Muere, Hart",
-      "image": "/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg",
+      "id_tmdb": 852096,
+      "title": "Un fantasma anda suelto por casa",
+      "image": "/ukck5O6t0gyZYOtCUHiBhhtEJcR.jpg",
       "type": "movie"
     },
     {
@@ -431,15 +431,21 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 16286,
-      "title": "Yo soy Betty, la fea",
-      "image": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
-      "type": "serie"
+      "id_tmdb": 1077280,
+      "title": "Muere, Hart",
+      "image": "/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg",
+      "type": "movie"
     },
     {
-      "id_tmdb": 1081313,
-      "title": "Esta noche duermes conmigo",
-      "image": "/8b1eK5Z8oe2qAqAbxSN33tLnLwq.jpg",
+      "id_tmdb": 850871,
+      "title": "Sayen",
+      "image": "/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1008005,
+      "title": "La nia de la comunin",
+      "image": "/sGSzha9K65abyvzBwXXnSV2sHWV.jpg",
       "type": "movie"
     },
     {
@@ -449,45 +455,21 @@
       "type": "serie"
     },
     {
-      "id_tmdb": 850871,
-      "title": "Sayen",
-      "image": "/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg",
+      "id_tmdb": 1081313,
+      "title": "Esta noche duermes conmigo",
+      "image": "/8b1eK5Z8oe2qAqAbxSN33tLnLwq.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 4604,
-      "title": "Smallville",
-      "image": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+      "id_tmdb": 16286,
+      "title": "Yo soy Betty, la fea",
+      "image": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
       "type": "serie"
     },
     {
       "id_tmdb": 76600,
       "title": "Avatar: El sentido del agua",
       "image": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1024621,
-      "title": "Me llamo Chihiro",
-      "image": "/aF0CmJl2rP7MvKxgNzKdKOk03rJ.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 772515,
-      "title": "Huesera",
-      "image": "/aVw74MES2R0kdSN8JhbJC8Xpne9.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 119051,
-      "title": "Mircoles",
-      "image": "/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 1086990,
-      "title": "Malcriados",
-      "image": "/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",
       "type": "movie"
     },
     {
@@ -503,9 +485,39 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 677179,
-      "title": "Creed III",
-      "image": "/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
+      "id_tmdb": 772515,
+      "title": "Huesera",
+      "image": "/aVw74MES2R0kdSN8JhbJC8Xpne9.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 980078,
+      "title": "Winnie-the-Pooh: Blood and Honey",
+      "image": "/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 119051,
+      "title": "Mircoles",
+      "image": "/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 456,
+      "title": "Los Simpson",
+      "image": "/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 1086990,
+      "title": "Malcriados",
+      "image": "/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1024621,
+      "title": "Me llamo Chihiro",
+      "image": "/aF0CmJl2rP7MvKxgNzKdKOk03rJ.jpg",
       "type": "movie"
     },
     {
@@ -515,34 +527,22 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 456,
-      "title": "Los Simpson",
-      "image": "/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 120318,
-      "title": "",
-      "image": "/zGpKAoEe2EGfwvoyeoNKrIDqomo.jpg",
-      "type": "serie"
-    },
-    {
       "id_tmdb": 1418,
       "title": "Big Bang",
       "image": "/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 739986,
-      "title": "True Spirit",
-      "image": "/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg",
-      "type": "movie"
-    },
-    {
       "id_tmdb": 842675,
       "title": "The Wandering Earth 2",
       "image": "/pZCamRrMWGotEoZV0y51uVGozXg.jpg",
       "type": "movie"
+    },
+    {
+      "id_tmdb": 82856,
+      "title": "The Mandalorian",
+      "image": "/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
+      "type": "serie"
     }
   ]
 }
