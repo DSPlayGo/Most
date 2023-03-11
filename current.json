@@ -1,15 +1,9 @@
 {
   "currentDay": [
     {
-      "id_tmdb": 677179,
-      "title": "Creed III",
-      "image": "/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 640146,
-      "title": "Ant-Man y la Avispa: Quantumana",
-      "image": "/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg",
+      "id_tmdb": 934433,
+      "title": "Scream VI",
+      "image": "/4nOYmPqBgbVEYJun5EB9Vk9tqSA.jpg",
       "type": "movie"
     },
     {
@@ -19,15 +13,159 @@
       "type": "serie"
     },
     {
+      "id_tmdb": 640146,
+      "title": "Ant-Man y la Avispa: Quantumana",
+      "image": "/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 677179,
+      "title": "Creed III",
+      "image": "/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1399,
+      "title": "Juego de tronos",
+      "image": "/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 1077280,
+      "title": "Muere, Hart",
+      "image": "/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1098239,
+      "title": "Tangos, tequilas, y algunas mentiras",
+      "image": "/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 60735,
+      "title": "The Flash",
+      "image": "/2O8tlUzKS3uddGW5D2B9XM6b4e.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 1003579,
+      "title": "Batman: The Doom That Came to Gotham",
+      "image": "/v0Jsn4jSN4yUBbKoVNCU7Zuzl1U.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 203704,
+      "title": "Junji Ito Maniac: Relatos japoneses de lo macabro",
+      "image": "/nj7F63Krwd03K5Lp5MLB2QWimU0.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 60625,
+      "title": "Rick y Morty",
+      "image": "/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "type": "serie"
+    },
+    {
       "id_tmdb": 850871,
       "title": "Sayen",
       "image": "/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 76479,
-      "title": "The Boys",
-      "image": "/8Aes6nbECN7j61PEnPmz3eQKE0x.jpg",
+      "id_tmdb": 700391,
+      "title": "65",
+      "image": "/dhqu9rInT9IOa2w0TU22YMEgGus.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1008005,
+      "title": "La nia de la comunin",
+      "image": "/sGSzha9K65abyvzBwXXnSV2sHWV.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 119051,
+      "title": "Mircoles",
+      "image": "/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 631842,
+      "title": "Llaman a la puerta",
+      "image": "/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 76600,
+      "title": "Avatar: El sentido del agua",
+      "image": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 10715,
+      "title": "Looney Tunes: De nuevo en accin",
+      "image": "/6QIy1WUEX4piBh2mXkJAZ6zEU6r.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 85949,
+      "title": "Star Trek: Picard",
+      "image": "/bONYUEn7iMFCebhDuqNG7hqqwoO.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 78191,
+      "title": "You",
+      "image": "/7dNpGaKrylwbt1orD3nVf0kwORI.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 715931,
+      "title": "Hacia la libertad",
+      "image": "/zQe7paVC4tSwb8vBwxSqajJ22Ue.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 931954,
+      "title": "Venus",
+      "image": "/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 667739,
+      "title": "El hombre de Toronto",
+      "image": "/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 82411,
+      "title": "La venganza de los ex",
+      "image": "/wT6oDLyEH4BGbCXKTruJ3yH9bfO.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 62852,
+      "title": "Billions",
+      "image": "/edwYPQdZE998d748AdwWLsfy0rl.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 703451,
+      "title": "Tu casa o la ma",
+      "image": "/9vMUao1QadZ6OS2UI984tORgGtU.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 844417,
+      "title": "Marlowe",
+      "image": "/nZie3WZuSb45EUXoQmUhLLnsjFr.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 134865,
+      "title": "Wolf Pack",
+      "image": "/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
       "type": "serie"
     },
     {
@@ -37,147 +175,9 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 1395,
-      "title": "Gossip Girl",
-      "image": "/fmegxZBz7GF8k4eme4ZJXXGI0TO.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 1418,
-      "title": "Big Bang",
-      "image": "/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
-      "type": "serie"
-    },
-    {
       "id_tmdb": 82856,
       "title": "The Mandalorian",
       "image": "/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 76600,
-      "title": "Avatar: El sentido del agua",
-      "image": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1077280,
-      "title": "Muere, Hart",
-      "image": "/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 631842,
-      "title": "Llaman a la puerta",
-      "image": "/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 219063,
-      "title": "La primera vez",
-      "image": "/8SB4i4grrqii6ND5plhN5fwSPfA.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 210411,
-      "title": "Cromosoma 21",
-      "image": "/mVmSSrW4djhwf5Eo3qS6xSJNog3.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 1059673,
-      "title": "Avatar: The Deep Dive - A Special Edition of 20/20",
-      "image": "/rtVeIsmeXnpjNbEKnm9Say58XjV.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 869112,
-      "title": "Somebody I Used to Know",
-      "image": "/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 818648,
-      "title": "Eres t",
-      "image": "/cyawjtxqR4XesB5sJuwV4SsMmuc.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 60735,
-      "title": "The Flash",
-      "image": "/7ci4qqkBJorLxSBwTj28vwh0bU.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 4604,
-      "title": "Smallville",
-      "image": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 86430,
-      "title": "Your Honor",
-      "image": "/1rWWgTEDFdV330aLgCoaq7I56lk.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 508943,
-      "title": "Luca",
-      "image": "/90T0yDjxK4JTzJLaZr5yMSoiW5i.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 105214,
-      "title": "Oscuro deseo",
-      "image": "/qh4Br7iLf0SAYnF4mqE1PjUXTra.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 85937,
-      "title": "Kimetsu no Yaiba: Guardianes de la Noche",
-      "image": "/tK4GsDa6BREEh6Hfng1tWPuq8oE.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 758009,
-      "title": "Una boda explosiva",
-      "image": "/rXGDnAimDovLWFzTbH716I0T1t2.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 284054,
-      "title": "Black Panther",
-      "image": "/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 852096,
-      "title": "Un fantasma anda suelto por casa",
-      "image": "/ukck5O6t0gyZYOtCUHiBhhtEJcR.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 16286,
-      "title": "Yo soy Betty, la fea",
-      "image": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 62650,
-      "title": "Chicago Med",
-      "image": "/gHP1tbA9XZ8rQTwgNpNKP8p3H9Z.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 46786,
-      "title": "Bates Motel",
-      "image": "/xXKcfZE7ulYxgjjYv51s0zDG69s.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 456,
-      "title": "Los Simpson",
-      "image": "/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg",
       "type": "serie"
     }
   ],
@@ -225,6 +225,36 @@
       "type": "serie"
     },
     {
+      "id_tmdb": 934433,
+      "title": "Scream VI",
+      "image": "/4nOYmPqBgbVEYJun5EB9Vk9tqSA.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 76600,
+      "title": "Avatar: El sentido del agua",
+      "image": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 315162,
+      "title": "El Gato con Botas: El ltimo deseo",
+      "image": "/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1399,
+      "title": "Juego de tronos",
+      "image": "/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 82856,
+      "title": "The Mandalorian",
+      "image": "/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
+      "type": "serie"
+    },
+    {
       "id_tmdb": 1081313,
       "title": "Esta noche duermes conmigo",
       "image": "/8b1eK5Z8oe2qAqAbxSN33tLnLwq.jpg",
@@ -237,27 +267,15 @@
       "type": "serie"
     },
     {
-      "id_tmdb": 315162,
-      "title": "El Gato con Botas: El ltimo deseo",
-      "image": "/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
+      "id_tmdb": 760741,
+      "title": "La bestia",
+      "image": "/usGKyYKENEb2igroUkNIZEOv06i.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 76600,
-      "title": "Avatar: El sentido del agua",
-      "image": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1399,
-      "title": "Juego de tronos",
-      "image": "/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 980078,
-      "title": "Winnie-the-Pooh: Blood and Honey",
-      "image": "/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
+      "id_tmdb": 1077280,
+      "title": "Muere, Hart",
+      "image": "/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg",
       "type": "movie"
     },
     {
@@ -273,9 +291,15 @@
       "type": "serie"
     },
     {
-      "id_tmdb": 1077280,
-      "title": "Muere, Hart",
-      "image": "/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg",
+      "id_tmdb": 456,
+      "title": "Los Simpson",
+      "image": "/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 980078,
+      "title": "Winnie-the-Pooh: Blood and Honey",
+      "image": "/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
       "type": "movie"
     },
     {
@@ -285,39 +309,9 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 852096,
-      "title": "Un fantasma anda suelto por casa",
-      "image": "/ukck5O6t0gyZYOtCUHiBhhtEJcR.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 760741,
-      "title": "La bestia",
-      "image": "/usGKyYKENEb2igroUkNIZEOv06i.jpg",
-      "type": "movie"
-    },
-    {
       "id_tmdb": 39351,
       "title": "Grimm",
       "image": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 216811,
-      "title": "Trada",
-      "image": "/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 221483,
-      "title": "Luden - Knige der Reeperbahn",
-      "image": "/kw5UkrJQIC5X2UPJfzcFBFW2Z66.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 16286,
-      "title": "Yo soy Betty, la fea",
-      "image": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
       "type": "serie"
     },
     {
@@ -333,15 +327,27 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 82856,
-      "title": "The Mandalorian",
-      "image": "/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
+      "id_tmdb": 852096,
+      "title": "Un fantasma anda suelto por casa",
+      "image": "/ukck5O6t0gyZYOtCUHiBhhtEJcR.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 221483,
+      "title": "Luden - Knige der Reeperbahn",
+      "image": "/kw5UkrJQIC5X2UPJfzcFBFW2Z66.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 456,
-      "title": "Los Simpson",
-      "image": "/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg",
+      "id_tmdb": 216811,
+      "title": "Trada",
+      "image": "/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 16286,
+      "title": "Yo soy Betty, la fea",
+      "image": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
       "type": "serie"
     },
     {
@@ -349,12 +355,6 @@
       "title": "Eres t",
       "image": "/cyawjtxqR4XesB5sJuwV4SsMmuc.jpg",
       "type": "movie"
-    },
-    {
-      "id_tmdb": 86430,
-      "title": "Your Honor",
-      "image": "/1rWWgTEDFdV330aLgCoaq7I56lk.jpg",
-      "type": "serie"
     },
     {
       "id_tmdb": 120318,
@@ -385,7 +385,7 @@
     {
       "id_tmdb": 60735,
       "title": "The Flash",
-      "image": "/7ci4qqkBJorLxSBwTj28vwh0bU.jpg",
+      "image": "/2O8tlUzKS3uddGW5D2B9XM6b4e.jpg",
       "type": "serie"
     },
     {
@@ -401,40 +401,16 @@
       "type": "serie"
     },
     {
-      "id_tmdb": 216811,
-      "title": "Trada",
-      "image": "/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg",
-      "type": "serie"
-    },
-    {
       "id_tmdb": 1402,
       "title": "The Walking Dead",
       "image": "/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 221322,
-      "title": "Noche de chicas",
-      "image": "/6kCubUUB23tKQT0A21BVj1LMRqF.jpg",
+      "id_tmdb": 216811,
+      "title": "Trada",
+      "image": "/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg",
       "type": "serie"
-    },
-    {
-      "id_tmdb": 39351,
-      "title": "Grimm",
-      "image": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 852096,
-      "title": "Un fantasma anda suelto por casa",
-      "image": "/ukck5O6t0gyZYOtCUHiBhhtEJcR.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 740441,
-      "title": "Unlocked",
-      "image": "/oGHr8yUOXtVK0mGoZURZqqbwXXj.jpg",
-      "type": "movie"
     },
     {
       "id_tmdb": 315162,
@@ -443,9 +419,39 @@
       "type": "movie"
     },
     {
+      "id_tmdb": 76600,
+      "title": "Avatar: El sentido del agua",
+      "image": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
+      "type": "movie"
+    },
+    {
       "id_tmdb": 1077280,
       "title": "Muere, Hart",
       "image": "/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 39351,
+      "title": "Grimm",
+      "image": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 740441,
+      "title": "Unlocked",
+      "image": "/oGHr8yUOXtVK0mGoZURZqqbwXXj.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 221322,
+      "title": "Noche de chicas",
+      "image": "/6kCubUUB23tKQT0A21BVj1LMRqF.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 852096,
+      "title": "Un fantasma anda suelto por casa",
+      "image": "/ukck5O6t0gyZYOtCUHiBhhtEJcR.jpg",
       "type": "movie"
     },
     {
@@ -461,40 +467,16 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 76600,
-      "title": "Avatar: El sentido del agua",
-      "image": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 16286,
-      "title": "Yo soy Betty, la fea",
-      "image": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
-      "type": "serie"
-    },
-    {
       "id_tmdb": 1399,
       "title": "Juego de tronos",
       "image": "/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 980078,
-      "title": "Winnie-the-Pooh: Blood and Honey",
-      "image": "/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
+      "id_tmdb": 934433,
+      "title": "Scream VI",
+      "image": "/4nOYmPqBgbVEYJun5EB9Vk9tqSA.jpg",
       "type": "movie"
-    },
-    {
-      "id_tmdb": 785084,
-      "title": "La ballena",
-      "image": "/irhIdN4KDOdmTXpplSAwCGZYDSL.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 456,
-      "title": "Los Simpson",
-      "image": "/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg",
-      "type": "serie"
     },
     {
       "id_tmdb": 82856,
@@ -503,16 +485,34 @@
       "type": "serie"
     },
     {
+      "id_tmdb": 16286,
+      "title": "Yo soy Betty, la fea",
+      "image": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 456,
+      "title": "Los Simpson",
+      "image": "/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 785084,
+      "title": "La ballena",
+      "image": "/irhIdN4KDOdmTXpplSAwCGZYDSL.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 980078,
+      "title": "Winnie-the-Pooh: Blood and Honey",
+      "image": "/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
+      "type": "movie"
+    },
+    {
       "id_tmdb": 119051,
       "title": "Mircoles",
       "image": "/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",
       "type": "serie"
-    },
-    {
-      "id_tmdb": 1086990,
-      "title": "Malcriados",
-      "image": "/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",
-      "type": "movie"
     },
     {
       "id_tmdb": 120318,
@@ -527,9 +527,15 @@
       "type": "serie"
     },
     {
-      "id_tmdb": 1063422,
-      "title": "Los extraos",
-      "image": "/8r68DugmiasKiduv6V6Piulm8Gn.jpg",
+      "id_tmdb": 1086990,
+      "title": "Malcriados",
+      "image": "/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 760741,
+      "title": "La bestia",
+      "image": "/usGKyYKENEb2igroUkNIZEOv06i.jpg",
       "type": "movie"
     },
     {
@@ -537,12 +543,6 @@
       "title": "Huesera",
       "image": "/aVw74MES2R0kdSN8JhbJC8Xpne9.jpg",
       "type": "movie"
-    },
-    {
-      "id_tmdb": 1418,
-      "title": "Big Bang",
-      "image": "/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
-      "type": "serie"
     }
   ]
 }
