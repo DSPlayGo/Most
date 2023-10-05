@@ -1,192 +1,40 @@
 {
   "currentDay": [
     {
-      "id_tmdb": 66732,
-      "title": "Stranger Things",
-      "image": "/94GCavCGyOoBZnRlb2x8OZB7HUr.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 346698,
-      "title": "Barbie",
-      "image": "/cgYg04miVQUAG2FKk3amSnnHzOp.jpg",
-      "type": "movie"
-    },
-    {
       "id_tmdb": 71712,
       "title": "The Good Doctor",
       "image": "/eCvGVqmxXcNvLMJxLAJeBZ2cUnM.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 105556,
-      "title": "Don\u0027t Toy with Me, Miss Nagatoro",
-      "image": "/lZPMglCnIQMnqoiWZj3e2NCEbo3.jpg",
+      "id_tmdb": 205715,
+      "title": "Generacin V",
+      "image": "/8WF2iRFbghWbE4kg0FzW5Q59bIr.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 1396,
-      "title": "Breaking Bad",
-      "image": "/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+      "id_tmdb": 66732,
+      "title": "Stranger Things",
+      "image": "/94GCavCGyOoBZnRlb2x8OZB7HUr.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 74016,
-      "title": "The Resident",
-      "image": "/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+      "id_tmdb": 76773,
+      "title": "Estacin 19",
+      "image": "/2LP5aBpym884vgsSHf2YoRNFj3E.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 35935,
-      "title": "Berserk",
-      "image": "/hG1M22gIRJ5HDgrvaxATFw2Ewmv.jpg",
+      "id_tmdb": 1008042,
+      "title": "Hblame",
+      "image": "/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 4057,
+      "title": "Mentes criminales",
+      "image": "/3UyUgPfcs7ByA9hxbhWSW98xdpg.jpg",
       "type": "serie"
-    },
-    {
-      "id_tmdb": 1040148,
-      "title": "Ruby: Aventuras de una kraken adolescente",
-      "image": "/qa465Bqi8a2YUIQDDi0ZbMDbhLa.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 79649,
-      "title": "Proyecto Blue Book",
-      "image": "/nexuOn0gRy53AgbsQbrbL2g4PEt.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 447277,
-      "title": "La sirenita",
-      "image": "/goX6Pcb7fugl9ADfg3Ns1OnuIYY.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 460465,
-      "title": "Mortal Kombat",
-      "image": "/2acqTZDykiX8U4oDVBIsNcm5O2o.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 23377,
-      "title": "Victoria\u0027s Secret Fashion Show",
-      "image": "/uVFGz2hi7bneb39zSqInxbVvMKO.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 1159259,
-      "title": "S.O.S Mamis 2: Mosquita Muerta",
-      "image": "/jWJs1aigS0uJ12FkGHhJjBsWFzX.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 76530,
-      "title": "Amor en blanco y negro",
-      "image": "/u1xNe0HwYsULATRW6qLeHW8GqLf.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 32798,
-      "title": "Hawaii Five-0",
-      "image": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 411,
-      "title": "Las crnicas de Narnia: El len, la bruja y el armario",
-      "image": "/vnyDtI6aMZ2TtAjrmNsKBIeoea9.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 315162,
-      "title": "El Gato con Botas: El ltimo deseo",
-      "image": "/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1274,
-      "title": "A dos metros bajo tierra",
-      "image": "/Al4RjjnnTNyLEn5idIxl2zfqYV5.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 502356,
-      "title": "Sper Mario Bros: La pelcula",
-      "image": "/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 298618,
-      "title": "Flash",
-      "image": "/oT6EkLKQLzbSpVJViRefDVElVcs.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 127529,
-      "title": "Perros de caza",
-      "image": "/pWzp4HpDifuyNF8zkPIy8MKCg2d.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 1064835,
-      "title": "The Seven Deadly Sins: El rencor de Edimburgo - Parte 2",
-      "image": "/p9WwpYRfKz3LcGva19v1SXsln1h.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1003581,
-      "title": "Justice League: Warworld",
-      "image": "/9tx4cD3cuHhrdqLwFw8TTbfSKH2.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 227719,
-      "title": "Bienvenidos al ayer",
-      "image": "/5HHOAXZxUmJ1q3ayKIubEp9PGwR.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 458027,
-      "title": "El ltimo guerrero",
-      "image": "/hDZIGCeooFN8QDd1A5LpQhdF6D8.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 121702,
-      "title": "Do It Yourself!!",
-      "image": "/z7uGIUHmsOaWbTAHn2Vaa6HnuK1.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 120089,
-      "title": "SPYFAMILY",
-      "image": "/wJOLiZIDvtmNbOaaHxQrRGzCAEu.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 115911,
-      "title": "Orient",
-      "image": "/bxTq9NmHnbcBGPLonj7c9Nidwqs.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 664767,
-      "title": "Mortal Kombat Legends: La venganza de Scorpion",
-      "image": "/sqBl12v4AXVoc5PmeGnd8oZ7HHY.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 841755,
-      "title": "Mortal Kombat Leyendas: La Batalla de los Reinos",
-      "image": "/ikSqxoxcIMq6tG3cCpO0KFt5PQ5.jpg",
-      "type": "movie"
-    }
-  ],
-  "currentWeek": [
-    {
-      "id_tmdb": 346698,
-      "title": "Barbie",
-      "image": "/cgYg04miVQUAG2FKk3amSnnHzOp.jpg",
-      "type": "movie"
     },
     {
       "id_tmdb": 615656,
@@ -195,52 +43,130 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 128839,
-      "title": "La Brea",
-      "image": "/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg",
+      "id_tmdb": 72710,
+      "title": "The Continental: Del universo de John Wick",
+      "image": "/sDasxXov8BvqWCSA0BJvvMmQNdr.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 980489,
-      "title": "Gran Turismo",
-      "image": "/vWWejYkkTqwktC3GOIvyFCv3QRq.jpg",
+      "id_tmdb": 127235,
+      "title": "Invasin",
+      "image": "/21pYLNyVn0bFkbYyyfzLDe4KVqi.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 156888,
+      "title": "La chica enmascarada",
+      "image": "/mKRIwsjNRoGes1hVZxU192EQZZL.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 945729,
+      "title": "Misterio en Venecia",
+      "image": "/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 724209,
-      "title": "Agente Stone",
-      "image": "/3iEjVseteIY8YnryTKWgVB91Uil.jpg",
+      "id_tmdb": 425,
+      "title": "Ice Age: La edad de hielo",
+      "image": "/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 71712,
-      "title": "The Good Doctor",
-      "image": "/eCvGVqmxXcNvLMJxLAJeBZ2cUnM.jpg",
+      "id_tmdb": 81358,
+      "title": "Mr. Inbetween",
+      "image": "/cXviefgSi6KNhbbEjwOHqgpNQ0o.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 1121575,
-      "title": "Babylon 5: El Viaje A Casa",
-      "image": "/qlXLiFKf2kvJ4K2VDBC5Z048vm3.jpg",
+      "id_tmdb": 130464,
+      "title": "Tell Me Lies",
+      "image": "/c4QimOuzhz4cdJOgBMC355Rt0HZ.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 277834,
+      "title": "Vaiana",
+      "image": "/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 113962,
-      "title": "Special Ops: Lioness",
-      "image": "/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg",
+      "id_tmdb": 92749,
+      "title": "Caballero luna",
+      "image": "/5AHnvXfW0mtsm047OP54n4pnV0R.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 43348,
-      "title": "Pablo Escobar, el patrn del mal",
-      "image": "/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg",
+      "id_tmdb": 80741,
+      "title": "La esposa que Quiero",
+      "image": "/fDmfvPG6EF9ySLe7D1aySKZEAYR.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 66732,
-      "title": "Stranger Things",
-      "image": "/94GCavCGyOoBZnRlb2x8OZB7HUr.jpg",
+      "id_tmdb": 521029,
+      "title": "Annabelle: Vuelve a casa",
+      "image": "/3ZZB2UHGK2iqj4XYgmivkeCgGJn.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 675054,
+      "title": "MexZombies",
+      "image": "/nEySe5f19wlKt6GDMhFmKJH18pU.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1165918,
+      "title": "Megalodon: The Frenzy",
+      "image": "/1o0jJYxgF7IJKdYNlDWgxomt2ft.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 131992,
+      "title": "The Changeling",
+      "image": "/xly7mmRVEWgYHE68xaqpBu8ZGYG.jpg",
       "type": "serie"
+    },
+    {
+      "id_tmdb": 1172674,
+      "title": "El desratizador",
+      "image": "/mYoXmRSLgWeo6cx5i8t6AUq3rIU.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 951491,
+      "title": "Saw X",
+      "image": "/epN0x9JTf3esk1FO8DWkhlE4Ax5.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1167725,
+      "title": "El amor est en el aire",
+      "image": "/bmTnqJaaL4tipNCGpywoDooRdYJ.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 8355,
+      "title": "Ice Age 3: El origen de los dinosaurios",
+      "image": "/5OiDvlOXSyXB90pl4c3Qcl2w5yR.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 4348,
+      "title": "Orgullo y prejuicio",
+      "image": "/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 2190,
+      "title": "South Park",
+      "image": "/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 565770,
+      "title": "Blue Beetle",
+      "image": "/tf5Mqgoj1fFIeP7Ktfn8KGrYhup.jpg",
+      "type": "movie"
     },
     {
       "id_tmdb": 1163045,
@@ -249,27 +175,95 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 1128719,
-      "title": "Lo desconocido: La mquina del tiempo csmica",
-      "image": "/6xWW3M7oTUngdCzZCX4CP8V2i9C.jpg",
+      "id_tmdb": 1172009,
+      "title": "The Black Book",
+      "image": "/hAmuzFUmdrKmRnCHcrN3imWpbTt.jpg",
+      "type": "movie"
+    }
+  ],
+  "currentWeek": [
+    {
+      "id_tmdb": 205715,
+      "title": "Generacin V",
+      "image": "/8WF2iRFbghWbE4kg0FzW5Q59bIr.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 71712,
+      "title": "The Good Doctor",
+      "image": "/eCvGVqmxXcNvLMJxLAJeBZ2cUnM.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 670292,
+      "title": "The Creator",
+      "image": "/nU3Ivtwbo30W66WTSqOuCeyJaln.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 335977,
-      "title": "Indiana Jones y el dial del destino",
-      "image": "/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg",
+      "id_tmdb": 1151534,
+      "title": "Nowhere",
+      "image": "/rpzFxv78UvYG5yQba2soO5mMl4T.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 575264,
-      "title": "Misin: Imposible - Sentencia mortal parte uno",
-      "image": "/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
+      "id_tmdb": 66732,
+      "title": "Stranger Things",
+      "image": "/94GCavCGyOoBZnRlb2x8OZB7HUr.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 951491,
+      "title": "Saw X",
+      "image": "/epN0x9JTf3esk1FO8DWkhlE4Ax5.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 1151703,
-      "title": "Island Escape",
-      "image": "/yCVX3SCFZIYXKkaHrVjc4krFMqD.jpg",
+      "id_tmdb": 346698,
+      "title": "Barbie",
+      "image": "/cgYg04miVQUAG2FKk3amSnnHzOp.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 926393,
+      "title": "The Equalizer 3",
+      "image": "/pOeuGFopH4VE1YxURNZsQqy7xCr.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1172674,
+      "title": "El desratizador",
+      "image": "/mYoXmRSLgWeo6cx5i8t6AUq3rIU.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 81356,
+      "title": "Sex Education",
+      "image": "/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 4057,
+      "title": "Mentes criminales",
+      "image": "/3UyUgPfcs7ByA9hxbhWSW98xdpg.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 985883,
+      "title": "No molestar",
+      "image": "/hLf5Tq3ZvuTL8PCDgazCkBqSCUy.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 299054,
+      "title": "Los mercen4rios",
+      "image": "/g6bfq26jmzEGNGMw768Fwu6OmdZ.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 866463,
+      "title": "Reptiles",
+      "image": "/h8dQwCNtEEfeYpDA0LJDBiJ8M2e.jpg",
       "type": "movie"
     },
     {
@@ -279,88 +273,94 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 447277,
-      "title": "La sirenita",
-      "image": "/goX6Pcb7fugl9ADfg3Ns1OnuIYY.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 298618,
-      "title": "Flash",
-      "image": "/oT6EkLKQLzbSpVJViRefDVElVcs.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 872585,
-      "title": "Oppenheimer",
-      "image": "/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 124364,
-      "title": "From",
-      "image": "/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "id_tmdb": 211684,
+      "title": "The Walking Dead: Daryl Dixon",
+      "image": "/kdM24KINoAVK9wjCtDJCkdffEpc.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 930094,
-      "title": "Rojo, blanco y sangre azul",
-      "image": "/7Hk7in9Vck0tW6KG7LD2l5DrjdB.jpg",
+      "id_tmdb": 945729,
+      "title": "Misterio en Venecia",
+      "image": "/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 1064835,
-      "title": "The Seven Deadly Sins: El rencor de Edimburgo - Parte 2",
-      "image": "/p9WwpYRfKz3LcGva19v1SXsln1h.jpg",
+      "id_tmdb": 1130659,
+      "title": "Breaking Point",
+      "image": "/j1CgpYTydE7Uj83e1jgEUfeTNvu.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 105556,
-      "title": "Don\u0027t Toy with Me, Miss Nagatoro",
-      "image": "/lZPMglCnIQMnqoiWZj3e2NCEbo3.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 678512,
-      "title": "Sound of Freedom",
-      "image": "/1laG6ntAYpTOxx2H5Gh0Ku0HZON.jpg",
+      "id_tmdb": 820609,
+      "title": "Nadie te salvar",
+      "image": "/udniPSAJS6RDarNgSBK8IUsFthf.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 231804,
-      "title": "LOL: Last One Laughing Colombia",
-      "image": "/bo4UKcVWwX2T5HA5UsFXTXcoUsy.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 205214,
-      "title": "Cadetes de mechas",
-      "image": "/5awFqxnqJHQD0TQCasf8VjAWqTb.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 709631,
-      "title": "No tengas miedo (Cobweb)",
-      "image": "/o0ndJZaa9ZFFfpnl1IejajXv0II.jpg",
+      "id_tmdb": 912974,
+      "title": "Accused",
+      "image": "/yo5d4bWZNTpvd6bXL10iXz7M68V.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 217945,
-      "title": "Zombiverso",
-      "image": "/tdCu8ggq26CqxtMUJ2o8Z5Bcw0o.jpg",
+      "id_tmdb": 32798,
+      "title": "Hawaii Five-0",
+      "image": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 2131,
-      "title": "Dara",
-      "image": "/cEUNl7gPr3xh1qyswErZDb3wmoP.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 1025962,
-      "title": "En temporada baja",
-      "image": "/cmD7ked02Fqcjt5nveXVn9dWBOl.jpg",
+      "id_tmdb": 968051,
+      "title": "La monja II",
+      "image": "/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg",
       "type": "movie"
+    },
+    {
+      "id_tmdb": 762430,
+      "title": "Retribution",
+      "image": "/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 62650,
+      "title": "Chicago Med",
+      "image": "/gHP1tbA9XZ8rQTwgNpNKP8p3H9Z.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 1402,
+      "title": "The Walking Dead",
+      "image": "/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 229962,
+      "title": "El cuerpo en llamas",
+      "image": "/3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 71728,
+      "title": "El joven Sheldon",
+      "image": "/dMJ2CB7VDmjYtyBvp9Ty5RZSf8o.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 1399,
+      "title": "Juego de tronos",
+      "image": "/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 86848,
+      "title": "Evil",
+      "image": "/mZvV71dsQkSs5cePbojeCsVAZlo.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 1418,
+      "title": "Big Bang",
+      "image": "/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
+      "type": "serie"
     }
   ],
   "currentMonth": [
@@ -371,93 +371,9 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 976573,
-      "title": "Elemental",
-      "image": "/qMcmZ4bsobOCv210dMUUFnSOD3m.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 298618,
-      "title": "Flash",
-      "image": "/oT6EkLKQLzbSpVJViRefDVElVcs.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 114472,
-      "title": "Invasin secreta",
-      "image": "/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 335977,
-      "title": "Indiana Jones y el dial del destino",
-      "image": "/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 614479,
-      "title": "Insidious: La puerta roja",
-      "image": "/vR2qo6fAsrIyhJ3cbeVdv8YqwWk.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 502356,
-      "title": "Sper Mario Bros: La pelcula",
-      "image": "/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 603692,
-      "title": "John Wick 4",
-      "image": "/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg",
-      "type": "movie"
-    },
-    {
       "id_tmdb": 71712,
       "title": "The Good Doctor",
       "image": "/eCvGVqmxXcNvLMJxLAJeBZ2cUnM.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 575264,
-      "title": "Misin: Imposible - Sentencia mortal parte uno",
-      "image": "/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 79744,
-      "title": "The Rookie",
-      "image": "/ts1Xda9uefLPZtREJ7EboHZga0u.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 667538,
-      "title": "Transformers: El despertar de las bestias",
-      "image": "/3oypSaTizrfBbpIeRs8tTOF2EqV.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 194583,
-      "title": "The Walking Dead: Dead City",
-      "image": "/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 569094,
-      "title": "Spider-Man: Cruzando el multiverso",
-      "image": "/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1040148,
-      "title": "Ruby: Aventuras de una kraken adolescente",
-      "image": "/qa465Bqi8a2YUIQDDi0ZbMDbhLa.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 113962,
-      "title": "Special Ops: Lioness",
-      "image": "/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg",
       "type": "serie"
     },
     {
@@ -467,33 +383,9 @@
       "type": "serie"
     },
     {
-      "id_tmdb": 872585,
-      "title": "Oppenheimer",
-      "image": "/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 447277,
-      "title": "La sirenita",
-      "image": "/goX6Pcb7fugl9ADfg3Ns1OnuIYY.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 198102,
-      "title": "Secuestro en el aire",
-      "image": "/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg",
-      "type": "serie"
-    },
-    {
-      "id_tmdb": 1128719,
-      "title": "Lo desconocido: La mquina del tiempo csmica",
-      "image": "/6xWW3M7oTUngdCzZCX4CP8V2i9C.jpg",
-      "type": "movie"
-    },
-    {
-      "id_tmdb": 1149947,
-      "title": "Oppenheimer: el dilema de la bomba atmica (2023)",
-      "image": "/lAgXJGC00jzO8An9On4QHeYMJqP.jpg",
+      "id_tmdb": 976573,
+      "title": "Elemental",
+      "image": "/qMcmZ4bsobOCv210dMUUFnSOD3m.jpg",
       "type": "movie"
     },
     {
@@ -503,27 +395,99 @@
       "type": "movie"
     },
     {
-      "id_tmdb": 71912,
-      "title": "The Witcher",
-      "image": "/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+      "id_tmdb": 298618,
+      "title": "Flash",
+      "image": "/oT6EkLKQLzbSpVJViRefDVElVcs.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 335977,
+      "title": "Indiana Jones y el dial del destino",
+      "image": "/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 114472,
+      "title": "Invasin secreta",
+      "image": "/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
       "type": "serie"
     },
     {
-      "id_tmdb": 805320,
-      "title": "Bird Box Barcelona",
-      "image": "/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg",
+      "id_tmdb": 79744,
+      "title": "The Rookie",
+      "image": "/ts1Xda9uefLPZtREJ7EboHZga0u.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 614479,
+      "title": "Insidious: La puerta roja",
+      "image": "/vR2qo6fAsrIyhJ3cbeVdv8YqwWk.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 988078,
-      "title": "A travs del mar",
-      "image": "/ykS1waU5GsEjPbiNnsHG2bl9QvS.jpg",
+      "id_tmdb": 575264,
+      "title": "Misin: Imposible - Sentencia mortal parte uno",
+      "image": "/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 993292,
-      "title": "Tinnitus",
-      "image": "/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg",
+      "id_tmdb": 113962,
+      "title": "Special Ops: Lioness",
+      "image": "/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 1008042,
+      "title": "Hblame",
+      "image": "/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 502356,
+      "title": "Sper Mario Bros: La pelcula",
+      "image": "/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 194583,
+      "title": "The Walking Dead: Dead City",
+      "image": "/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 603692,
+      "title": "John Wick 4",
+      "image": "/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 667538,
+      "title": "Transformers: El despertar de las bestias",
+      "image": "/3oypSaTizrfBbpIeRs8tTOF2EqV.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 872585,
+      "title": "Oppenheimer",
+      "image": "/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 569094,
+      "title": "Spider-Man: Cruzando el multiverso",
+      "image": "/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 678512,
+      "title": "Sound of Freedom",
+      "image": "/1laG6ntAYpTOxx2H5Gh0Ku0HZON.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 980489,
+      "title": "Gran Turismo",
+      "image": "/vWWejYkkTqwktC3GOIvyFCv3QRq.jpg",
       "type": "movie"
     },
     {
@@ -533,16 +497,52 @@
       "type": "serie"
     },
     {
+      "id_tmdb": 1040148,
+      "title": "Ruby: Aventuras de una kraken adolescente",
+      "image": "/qa465Bqi8a2YUIQDDi0ZbMDbhLa.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 447277,
+      "title": "La sirenita",
+      "image": "/goX6Pcb7fugl9ADfg3Ns1OnuIYY.jpg",
+      "type": "movie"
+    },
+    {
+      "id_tmdb": 1416,
+      "title": "Anatoma de Grey",
+      "image": "/jPzW61WlkyHVdvm8dCQZveTvmgW.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 198102,
+      "title": "Secuestro en el aire",
+      "image": "/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 456,
+      "title": "Los Simpson",
+      "image": "/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg",
+      "type": "serie"
+    },
+    {
+      "id_tmdb": 1128719,
+      "title": "Lo desconocido: La mquina del tiempo csmica",
+      "image": "/6xWW3M7oTUngdCzZCX4CP8V2i9C.jpg",
+      "type": "movie"
+    },
+    {
       "id_tmdb": 447365,
       "title": "Guardianes de la Galaxia: Volumen 3",
       "image": "/voAxRv011XHK2qFBXmZKXPj2wWB.jpg",
       "type": "movie"
     },
     {
-      "id_tmdb": 697843,
-      "title": "Tyler Rake 2",
-      "image": "/jT0Eyfw0VXlnk8sMKfyFiKj8UsK.jpg",
-      "type": "movie"
+      "id_tmdb": 71912,
+      "title": "The Witcher",
+      "image": "/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+      "type": "serie"
     }
   ]
 }
